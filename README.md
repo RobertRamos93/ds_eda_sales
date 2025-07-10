@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 
 Raw data rarely arrives in perfect condition. That's why the EDA (*Exploratory Data Analysis*), and thus, data cleaning, is a powerful tool.
 
@@ -19,5 +19,12 @@ The dataset includes the following column names:
 * Total Spent
 * Location
 * Transaction Date
+
+# Actions taken
+* Did EDA on the data.
+* Identified null and unwanted values within the columns.
+* Replaced null values with mean, if numerical, or with "Unknown" if categorical.
+* Transformed "Transaction Date" column into Datetime, then created a new column for "Month" to analyze monthly sales.
+* Created data viz' to show results.
 
 
