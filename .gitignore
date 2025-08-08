@@ -5,4 +5,5 @@ __pycache__/
 *.csv
 *.db
 .DS_Store
-venv/
+.venv/
+uv.lock
