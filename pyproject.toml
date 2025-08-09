@@ -1,5 +1,5 @@
 [project]
-name = "data_science_eda"
+name = "ds_eda_sales"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
